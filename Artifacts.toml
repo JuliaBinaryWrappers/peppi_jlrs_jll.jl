@@ -1,0 +1,258 @@
+[[peppi_jlrs]]
+arch = "aarch64"
+git-tree-sha1 = "acbacf6bde02a22f8dc4df474d1037338a2692fc"
+julia_version = "1.10.0"
+os = "macos"
+
+    [[peppi_jlrs.download]]
+    sha256 = "3e555deeffac83d40e1767ca17c99fad09f70c81308761ef724fdc54fb5da599"
+    url = "https://github.com/JuliaBinaryWrappers/peppi_jlrs_jll.jl/releases/download/peppi_jlrs-v0.1.0+0/peppi_jlrs.v0.1.0.aarch64-apple-darwin-julia_version+1.10.0.tar.gz"
+[[peppi_jlrs]]
+arch = "aarch64"
+git-tree-sha1 = "d48572b4ae3f740ffbc0c4bdf522abe68992a0be"
+julia_version = "1.11.0"
+os = "macos"
+
+    [[peppi_jlrs.download]]
+    sha256 = "8b2a86b07a4c4286f3a9ea2827be3458748b99b0784231ccd9774d6ecf36f550"
+    url = "https://github.com/JuliaBinaryWrappers/peppi_jlrs_jll.jl/releases/download/peppi_jlrs-v0.1.0+0/peppi_jlrs.v0.1.0.aarch64-apple-darwin-julia_version+1.11.0.tar.gz"
+[[peppi_jlrs]]
+arch = "aarch64"
+git-tree-sha1 = "c915285c51af610387f2dacea9a1fa5939c22029"
+julia_version = "1.12.0"
+os = "macos"
+
+    [[peppi_jlrs.download]]
+    sha256 = "64515e9c8bf1820215fc748a01d5dd87f5cfafdffee40411940c14fbc321d524"
+    url = "https://github.com/JuliaBinaryWrappers/peppi_jlrs_jll.jl/releases/download/peppi_jlrs-v0.1.0+0/peppi_jlrs.v0.1.0.aarch64-apple-darwin-julia_version+1.12.0.tar.gz"
+[[peppi_jlrs]]
+arch = "aarch64"
+git-tree-sha1 = "a492096e52d09a7e43572feb6c7f5ee172ae8590"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[peppi_jlrs.download]]
+    sha256 = "a3ab616e213c5d56b5789ce87dd12b28c779135ac87c2a4e05e1cc6021c02e88"
+    url = "https://github.com/JuliaBinaryWrappers/peppi_jlrs_jll.jl/releases/download/peppi_jlrs-v0.1.0+0/peppi_jlrs.v0.1.0.aarch64-linux-gnu-julia_version+1.10.0.tar.gz"
+[[peppi_jlrs]]
+arch = "aarch64"
+git-tree-sha1 = "581a9aaf5c2fd836da6611339e3126998f06853f"
+julia_version = "1.11.0"
+libc = "glibc"
+os = "linux"
+
+    [[peppi_jlrs.download]]
+    sha256 = "321cf158ddc326cab0f99dcea4a79dd2527039ef3a551e41f2ed326b29193ce5"
+    url = "https://github.com/JuliaBinaryWrappers/peppi_jlrs_jll.jl/releases/download/peppi_jlrs-v0.1.0+0/peppi_jlrs.v0.1.0.aarch64-linux-gnu-julia_version+1.11.0.tar.gz"
+[[peppi_jlrs]]
+arch = "aarch64"
+git-tree-sha1 = "6fb5d4661149a3d12325713e3d1aa9af1c7b9b4e"
+julia_version = "1.12.0"
+libc = "glibc"
+os = "linux"
+
+    [[peppi_jlrs.download]]
+    sha256 = "823280d365f925af3a9f9816289501be0874c116efe1953bdf62b8a5cd320007"
+    url = "https://github.com/JuliaBinaryWrappers/peppi_jlrs_jll.jl/releases/download/peppi_jlrs-v0.1.0+0/peppi_jlrs.v0.1.0.aarch64-linux-gnu-julia_version+1.12.0.tar.gz"
+[[peppi_jlrs]]
+arch = "aarch64"
+git-tree-sha1 = "5919a71393a15540b98f881321561c771812450e"
+julia_version = "1.10.0"
+libc = "musl"
+os = "linux"
+
+    [[peppi_jlrs.download]]
+    sha256 = "26bc6dfd1bbaa62d506b370d1aeee41d7c10def230d84e11cec0868e68a40f20"
+    url = "https://github.com/JuliaBinaryWrappers/peppi_jlrs_jll.jl/releases/download/peppi_jlrs-v0.1.0+0/peppi_jlrs.v0.1.0.aarch64-linux-musl-julia_version+1.10.0.tar.gz"
+[[peppi_jlrs]]
+arch = "aarch64"
+git-tree-sha1 = "9a5e6d2358a071cf4473c9085c15a986286aa744"
+julia_version = "1.11.0"
+libc = "musl"
+os = "linux"
+
+    [[peppi_jlrs.download]]
+    sha256 = "08720cde828077e6d377fbf066af14b205356ad386e4e79d21a3250e859444fd"
+    url = "https://github.com/JuliaBinaryWrappers/peppi_jlrs_jll.jl/releases/download/peppi_jlrs-v0.1.0+0/peppi_jlrs.v0.1.0.aarch64-linux-musl-julia_version+1.11.0.tar.gz"
+[[peppi_jlrs]]
+arch = "aarch64"
+git-tree-sha1 = "c9d6ccfa4986d6d7ec8e0b6919aa85421e7bc3af"
+julia_version = "1.12.0"
+libc = "musl"
+os = "linux"
+
+    [[peppi_jlrs.download]]
+    sha256 = "f7a33eaced2a95d27d0a26877ce3a8189207f4654182db01f7ae34cbde6df0e0"
+    url = "https://github.com/JuliaBinaryWrappers/peppi_jlrs_jll.jl/releases/download/peppi_jlrs-v0.1.0+0/peppi_jlrs.v0.1.0.aarch64-linux-musl-julia_version+1.12.0.tar.gz"
+[[peppi_jlrs]]
+arch = "powerpc64le"
+git-tree-sha1 = "038825553e6d87ca3105c18bea47d9f37668fabd"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[peppi_jlrs.download]]
+    sha256 = "c42e0e14f1146e049e1fde9ef3f81f1ae94280e22b7bc8b780b2fce11ab74519"
+    url = "https://github.com/JuliaBinaryWrappers/peppi_jlrs_jll.jl/releases/download/peppi_jlrs-v0.1.0+0/peppi_jlrs.v0.1.0.powerpc64le-linux-gnu-julia_version+1.10.0.tar.gz"
+[[peppi_jlrs]]
+arch = "powerpc64le"
+git-tree-sha1 = "3bc2721524e1c3599457020e08ae852b22517d5e"
+julia_version = "1.11.0"
+libc = "glibc"
+os = "linux"
+
+    [[peppi_jlrs.download]]
+    sha256 = "0185e6114ad84bf4fa8064145abbc1ed5011fee57faded35777eb1edf5a61bdf"
+    url = "https://github.com/JuliaBinaryWrappers/peppi_jlrs_jll.jl/releases/download/peppi_jlrs-v0.1.0+0/peppi_jlrs.v0.1.0.powerpc64le-linux-gnu-julia_version+1.11.0.tar.gz"
+[[peppi_jlrs]]
+arch = "powerpc64le"
+git-tree-sha1 = "814e2ce2648c8e8a2248d08ec54c45742472bffc"
+julia_version = "1.12.0"
+libc = "glibc"
+os = "linux"
+
+    [[peppi_jlrs.download]]
+    sha256 = "e271405e7d800c1349e2b3dc99211950510a517f056d9c2d58423a6ea3595803"
+    url = "https://github.com/JuliaBinaryWrappers/peppi_jlrs_jll.jl/releases/download/peppi_jlrs-v0.1.0+0/peppi_jlrs.v0.1.0.powerpc64le-linux-gnu-julia_version+1.12.0.tar.gz"
+[[peppi_jlrs]]
+arch = "x86_64"
+git-tree-sha1 = "125045c6daa9ac669c05a7e403a71cab7be3f12a"
+julia_version = "1.10.0"
+os = "macos"
+
+    [[peppi_jlrs.download]]
+    sha256 = "50cb17643c7c4ec708eb245e31f456c96824793acf58ac91189c59f27c1eca03"
+    url = "https://github.com/JuliaBinaryWrappers/peppi_jlrs_jll.jl/releases/download/peppi_jlrs-v0.1.0+0/peppi_jlrs.v0.1.0.x86_64-apple-darwin-julia_version+1.10.0.tar.gz"
+[[peppi_jlrs]]
+arch = "x86_64"
+git-tree-sha1 = "c9331ec077eb2a93d81113849cc3a23faabdbf3d"
+julia_version = "1.11.0"
+os = "macos"
+
+    [[peppi_jlrs.download]]
+    sha256 = "1e063ae3c7d3eceb1dee0a1f2a514e2cfedf80a6b8b66621e6b5433ca2aad689"
+    url = "https://github.com/JuliaBinaryWrappers/peppi_jlrs_jll.jl/releases/download/peppi_jlrs-v0.1.0+0/peppi_jlrs.v0.1.0.x86_64-apple-darwin-julia_version+1.11.0.tar.gz"
+[[peppi_jlrs]]
+arch = "x86_64"
+git-tree-sha1 = "cef6e0b007d45e2ba58126b440bdef22bbff198b"
+julia_version = "1.12.0"
+os = "macos"
+
+    [[peppi_jlrs.download]]
+    sha256 = "32b5e714398c06996282fed4fc68bf70c8c3461cbe51dd3caba57e50e5e90635"
+    url = "https://github.com/JuliaBinaryWrappers/peppi_jlrs_jll.jl/releases/download/peppi_jlrs-v0.1.0+0/peppi_jlrs.v0.1.0.x86_64-apple-darwin-julia_version+1.12.0.tar.gz"
+[[peppi_jlrs]]
+arch = "x86_64"
+git-tree-sha1 = "34dd51e439028050575fcd4135c29908656fa297"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[peppi_jlrs.download]]
+    sha256 = "d5d8025f4ee947109ed2c7fb14e1a24ce0d13c1b70cba01cc935d8b0cec2c833"
+    url = "https://github.com/JuliaBinaryWrappers/peppi_jlrs_jll.jl/releases/download/peppi_jlrs-v0.1.0+0/peppi_jlrs.v0.1.0.x86_64-linux-gnu-julia_version+1.10.0.tar.gz"
+[[peppi_jlrs]]
+arch = "x86_64"
+git-tree-sha1 = "57d4e8ed16a91a832b28b6b47fa1f08ee439d780"
+julia_version = "1.11.0"
+libc = "glibc"
+os = "linux"
+
+    [[peppi_jlrs.download]]
+    sha256 = "e678b9312824299edc1f75031c79ab34283a48882df5740c54efae09a8342c37"
+    url = "https://github.com/JuliaBinaryWrappers/peppi_jlrs_jll.jl/releases/download/peppi_jlrs-v0.1.0+0/peppi_jlrs.v0.1.0.x86_64-linux-gnu-julia_version+1.11.0.tar.gz"
+[[peppi_jlrs]]
+arch = "x86_64"
+git-tree-sha1 = "2064fa673852aec4318a774dff8e718a8c0f1bc7"
+julia_version = "1.12.0"
+libc = "glibc"
+os = "linux"
+
+    [[peppi_jlrs.download]]
+    sha256 = "8f4ca9721e37a4280bd2b2e37934aff2426f548f52aab0b425a55bde2fb890fe"
+    url = "https://github.com/JuliaBinaryWrappers/peppi_jlrs_jll.jl/releases/download/peppi_jlrs-v0.1.0+0/peppi_jlrs.v0.1.0.x86_64-linux-gnu-julia_version+1.12.0.tar.gz"
+[[peppi_jlrs]]
+arch = "x86_64"
+git-tree-sha1 = "818d6f84fdac0c84116e54d25cdbc3d0edf0ca6d"
+julia_version = "1.10.0"
+libc = "musl"
+os = "linux"
+
+    [[peppi_jlrs.download]]
+    sha256 = "41ba78bf636d03f4d08208c66e39da069ef5aea61a1411df82cd0a4997a8805c"
+    url = "https://github.com/JuliaBinaryWrappers/peppi_jlrs_jll.jl/releases/download/peppi_jlrs-v0.1.0+0/peppi_jlrs.v0.1.0.x86_64-linux-musl-julia_version+1.10.0.tar.gz"
+[[peppi_jlrs]]
+arch = "x86_64"
+git-tree-sha1 = "64172253b3b66b13b0e642f069d810e8d80b3d2a"
+julia_version = "1.11.0"
+libc = "musl"
+os = "linux"
+
+    [[peppi_jlrs.download]]
+    sha256 = "42de37fdfc5ad07510959e5e5805afe8212dfbb6d169abdd121de36bfecd0ae5"
+    url = "https://github.com/JuliaBinaryWrappers/peppi_jlrs_jll.jl/releases/download/peppi_jlrs-v0.1.0+0/peppi_jlrs.v0.1.0.x86_64-linux-musl-julia_version+1.11.0.tar.gz"
+[[peppi_jlrs]]
+arch = "x86_64"
+git-tree-sha1 = "5b35cc061302310df42a29d40866aeb6ea3480d7"
+julia_version = "1.12.0"
+libc = "musl"
+os = "linux"
+
+    [[peppi_jlrs.download]]
+    sha256 = "646a28218f44e3e61eda081fe50e0879b58464cdd8101677b666da0b56f1305a"
+    url = "https://github.com/JuliaBinaryWrappers/peppi_jlrs_jll.jl/releases/download/peppi_jlrs-v0.1.0+0/peppi_jlrs.v0.1.0.x86_64-linux-musl-julia_version+1.12.0.tar.gz"
+[[peppi_jlrs]]
+arch = "x86_64"
+git-tree-sha1 = "9dc6dd566f873bb0a664b9e2f1610ae9fda58f84"
+julia_version = "1.10.0"
+os = "freebsd"
+
+    [[peppi_jlrs.download]]
+    sha256 = "d9ae3769c1e8a69a24cb399220fd8aa22f92ad83ff50d504c01b2bd854f53a55"
+    url = "https://github.com/JuliaBinaryWrappers/peppi_jlrs_jll.jl/releases/download/peppi_jlrs-v0.1.0+0/peppi_jlrs.v0.1.0.x86_64-unknown-freebsd-julia_version+1.10.0.tar.gz"
+[[peppi_jlrs]]
+arch = "x86_64"
+git-tree-sha1 = "f97a8c7a351a2c92ab09621ba12d6ce6c80db8fa"
+julia_version = "1.11.0"
+os = "freebsd"
+
+    [[peppi_jlrs.download]]
+    sha256 = "a2a5c3506067a981819e2bd3b6ff6ea45636dea0c62861e3850068ea930ead48"
+    url = "https://github.com/JuliaBinaryWrappers/peppi_jlrs_jll.jl/releases/download/peppi_jlrs-v0.1.0+0/peppi_jlrs.v0.1.0.x86_64-unknown-freebsd-julia_version+1.11.0.tar.gz"
+[[peppi_jlrs]]
+arch = "x86_64"
+git-tree-sha1 = "707be41c82fd7378a16e34bca56a43722f98a617"
+julia_version = "1.12.0"
+os = "freebsd"
+
+    [[peppi_jlrs.download]]
+    sha256 = "1d1ba44a088664c4ae1916419051888a4dbc071cb2b69572e2239a0ff444ac37"
+    url = "https://github.com/JuliaBinaryWrappers/peppi_jlrs_jll.jl/releases/download/peppi_jlrs-v0.1.0+0/peppi_jlrs.v0.1.0.x86_64-unknown-freebsd-julia_version+1.12.0.tar.gz"
+[[peppi_jlrs]]
+arch = "x86_64"
+git-tree-sha1 = "e56231852061c9ec015dc2afe4edb06b344e6756"
+julia_version = "1.10.0"
+os = "windows"
+
+    [[peppi_jlrs.download]]
+    sha256 = "0a0e722735cfb2198202c26f636c2832dc1f4d7e32d63f9d23397baa7c3795cd"
+    url = "https://github.com/JuliaBinaryWrappers/peppi_jlrs_jll.jl/releases/download/peppi_jlrs-v0.1.0+0/peppi_jlrs.v0.1.0.x86_64-w64-mingw32-julia_version+1.10.0.tar.gz"
+[[peppi_jlrs]]
+arch = "x86_64"
+git-tree-sha1 = "362ee3f8e00cb91dfdce55cb545ffd35c886c923"
+julia_version = "1.11.0"
+os = "windows"
+
+    [[peppi_jlrs.download]]
+    sha256 = "d674fc850ffcf5b88d0b993e38a87613a0f838380a4f63eec1e943ef89fc1d94"
+    url = "https://github.com/JuliaBinaryWrappers/peppi_jlrs_jll.jl/releases/download/peppi_jlrs-v0.1.0+0/peppi_jlrs.v0.1.0.x86_64-w64-mingw32-julia_version+1.11.0.tar.gz"
+[[peppi_jlrs]]
+arch = "x86_64"
+git-tree-sha1 = "a471e0d7c3f5c796050bd649ac9c6a61ea409f80"
+julia_version = "1.12.0"
+os = "windows"
+
+    [[peppi_jlrs.download]]
+    sha256 = "f079ad7d1da1d205dd89c2c9fdb04d9d3986e7ee66ccd324483d428644533a96"
+    url = "https://github.com/JuliaBinaryWrappers/peppi_jlrs_jll.jl/releases/download/peppi_jlrs-v0.1.0+0/peppi_jlrs.v0.1.0.x86_64-w64-mingw32-julia_version+1.12.0.tar.gz"
